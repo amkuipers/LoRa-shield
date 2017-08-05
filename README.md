@@ -2,6 +2,11 @@
 
 DRAFT - WORK IN PROGRESS
 
+ * Files are older version, please use the order link
+ * Order board v6.1
+
+ <a href="https://oshpark.com/shared_projects/X4cLxyim"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
+ 
 ## Eagle 
 
 Version 8.2.1
