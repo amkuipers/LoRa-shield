@@ -2,11 +2,14 @@
 
 DRAFT - WORK IN PROGRESS
 
- * Files are older version, please use the order link
+ * Files here are older version, please use the order link for newer pcb version.
  * Order board v6.1
 
  <a href="https://oshpark.com/shared_projects/X4cLxyim"><img src="https://oshpark.com/assets/badge-5b7ec47045b78aef6eb9d83b3bac6b1920de805e9a0c227658eac6e19a045b9c.png" alt="Order from OSH Park"></img></a>
- 
+
+![side1](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/4609c1cda8303d34b11222b2f15961cb.png)
+![side2](https://644db4de3505c40a0444-327723bce298e3ff5813fb42baeefbaa.ssl.cf1.rackcdn.com/aa6c3c8b0df6ad750b2a29e0ed36b6e5.png)
+
 ## Eagle 
 
 Version 8.2.1
